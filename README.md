@@ -33,6 +33,6 @@ If you only run one script, you can easily embed the CSS directly into that reso
 
 ```cfg
 ensure mx0_ui
-ensure mx0_boosting
+ensure mx0_boostingtablet
 ensure mx0_multijob
 # ...other scripts
